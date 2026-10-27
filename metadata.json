@@ -1,0 +1,6 @@
+{
+  "name": "Skill Wallet HRM",
+  "description": "Comprehensive Human Resource Management System for managing employees, managers, attendance, leave requests, announcements, training programs, and HR analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
